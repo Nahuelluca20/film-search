@@ -1,38 +1,93 @@
-.App {
-  text-align: center;
+.principal {
+    display: grid;
+    justify-content: center;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 86px 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.children {
+    border: 2px solid #000000;
+    border-radius: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+img {
+    border-radius: 10px 10px 0 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.info-div {
+    background: rgb(0, 0, 0, 0.95);
+    width: 333px;
+    padding: 5px 0px;
+    margin: -5px 0;
+    border-radius: 0 0 10px 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.info-div h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #a71930;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.info-div h3 {
+    color: #a71930;
+    font-weight: 400;
+}
+
+.info-div h3 span {
+    color: #a5acaf;
+}
+
+.info-div div p {
+    color: #a5acaf;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.info-div div {
+    margin: 10px;
+}
+form {
+    text-align: center;
+    padding: 10px 0;
+}
+
+input {
+    outline: none;
+    outline: none;
+    border: 1px solid #a71930;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: 700;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+button {
+    background-color: #a71930;
+    outline: none;
+    border: 1px solid #a71930;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 0 5px;
+    font-weight: 700;
+}
+
+@media screen and (min-width: 768px) {
+    .principal div {
+        display: flex;
+    }
+    .info-div {
+        min-width: 500px;
+        border-radius: 0 10px 10px 0;
+        margin: 0;
+    }
+    .info-div div {
+        display: block;
+    }
+    img {
+        border-radius: 10px 0 0 10px;
+    }
 }

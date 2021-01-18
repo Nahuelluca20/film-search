@@ -1,0 +1,36 @@
+.home {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.title-div {
+  color: white;
+  text-align: center;
+  margin: 20px 0 50px 0;
+}
+
+.title-div h1 {
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-color: #a71930;
+}
+
+@media screen and (min-width: 1024px) {
+  .home {
+    margin-top: 130px;
+  }
+
+  .title-div {
+    text-align: start;
+    padding-right: 100px;
+    margin: 50px;
+  }
+
+  .home-img {
+    width: 500px;
+  }
+}

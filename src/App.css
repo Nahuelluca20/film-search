@@ -4,7 +4,7 @@
     margin: 0;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 86px 0;
+    padding: 50px 0px;
 }
 
 .children {
@@ -55,7 +55,6 @@ form {
 
 input {
     outline: none;
-    outline: none;
     border: 1px solid #a71930;
     border-radius: 20px;
     padding: 10px;
@@ -75,7 +74,7 @@ button {
     font-weight: 700;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
     .principal div {
         display: flex;
     }

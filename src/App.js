@@ -1,11 +1,11 @@
 import './App.css';
-import SearchMovie from './Components/SearchMovie'
+import Nav from './Components/Nav'
 
 function App() {
 
   return (
     <main>
-      <SearchMovie />
+      <Nav />
     </main>
 
   );

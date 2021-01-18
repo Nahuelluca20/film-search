@@ -15,7 +15,7 @@ export default function Card({ data, handleChange, handleSubmit }) {
             </form>
         </div>
             <div className="children">
-                <img height="500px" src={data.imgPoster}/>
+                <img height="500px" src={data.imgPoster} alt={data.title} />
                 <div className="info-div">
                     <div>
                         <h1>{data.title}</h1>

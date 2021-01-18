@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/film-search/static/css/main.48750f25.chunk.css",
-    "main.js": "/film-search/static/js/main.03363750.chunk.js",
-    "main.js.map": "/film-search/static/js/main.03363750.chunk.js.map",
-    "runtime-main.js": "/film-search/static/js/runtime-main.dd68ac5d.js",
-    "runtime-main.js.map": "/film-search/static/js/runtime-main.dd68ac5d.js.map",
-    "static/js/2.e716add8.chunk.js": "/film-search/static/js/2.e716add8.chunk.js",
-    "static/js/2.e716add8.chunk.js.map": "/film-search/static/js/2.e716add8.chunk.js.map",
-    "static/js/3.f7d4c8f4.chunk.js": "/film-search/static/js/3.f7d4c8f4.chunk.js",
-    "static/js/3.f7d4c8f4.chunk.js.map": "/film-search/static/js/3.f7d4c8f4.chunk.js.map",
+    "main.css": "/film-search/static/css/main.26181ebd.chunk.css",
+    "main.js": "/film-search/static/js/main.888988c3.chunk.js",
+    "main.js.map": "/film-search/static/js/main.888988c3.chunk.js.map",
+    "runtime-main.js": "/film-search/static/js/runtime-main.6e683199.js",
+    "runtime-main.js.map": "/film-search/static/js/runtime-main.6e683199.js.map",
+    "static/js/2.dd5beb90.chunk.js": "/film-search/static/js/2.dd5beb90.chunk.js",
+    "static/js/2.dd5beb90.chunk.js.map": "/film-search/static/js/2.dd5beb90.chunk.js.map",
+    "static/js/3.25146af4.chunk.js": "/film-search/static/js/3.25146af4.chunk.js",
+    "static/js/3.25146af4.chunk.js.map": "/film-search/static/js/3.25146af4.chunk.js.map",
     "index.html": "/film-search/index.html",
-    "static/css/main.48750f25.chunk.css.map": "/film-search/static/css/main.48750f25.chunk.css.map",
-    "static/js/2.e716add8.chunk.js.LICENSE.txt": "/film-search/static/js/2.e716add8.chunk.js.LICENSE.txt"
+    "static/css/main.26181ebd.chunk.css.map": "/film-search/static/css/main.26181ebd.chunk.css.map",
+    "static/js/2.dd5beb90.chunk.js.LICENSE.txt": "/film-search/static/js/2.dd5beb90.chunk.js.LICENSE.txt",
+    "static/media/github.cb9ed58b.svg": "/film-search/static/media/github.cb9ed58b.svg",
+    "static/media/linkedin.f6386630.svg": "/film-search/static/media/linkedin.f6386630.svg",
+    "static/media/movie.c9f9d1ef.svg": "/film-search/static/media/movie.c9f9d1ef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd68ac5d.js",
-    "static/js/2.e716add8.chunk.js",
-    "static/css/main.48750f25.chunk.css",
-    "static/js/main.03363750.chunk.js"
+    "static/js/runtime-main.6e683199.js",
+    "static/js/2.dd5beb90.chunk.js",
+    "static/css/main.26181ebd.chunk.css",
+    "static/js/main.888988c3.chunk.js"
   ]
 }
